@@ -1,4 +1,2 @@
-<h1> Touyee Lor </h1>
-
 # This is a test
 <p> This is a test </p>
